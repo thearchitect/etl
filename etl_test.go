@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/thearchitect/ashram/ashram-backend/experiments/etl"
+	"github.com/thearchitect/etl"
 )
 
 // https://github.com/polarsignals/frostdb
